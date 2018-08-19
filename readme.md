@@ -1,4 +1,4 @@
-## Workshow Steps
+## Workshop Steps
 1. cucumber --init
 2. สร้าง Gemfile เพื่อระบุ dependencies
 3. รัน command เพื่อลง dependencies
