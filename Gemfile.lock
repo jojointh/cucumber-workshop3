@@ -57,10 +57,10 @@ GEM
       diff-lcs (>= 1.2.0, < 2.0)
       rspec-support (~> 3.8.0)
     rspec-support (3.8.0)
-    rubyzip (1.2.1)
+    rubyzip (1.2.2)
     selenium-webdriver (3.14.0)
       childprocess (~> 0.5)
-      rubyzip (~> 1.2)
+      rubyzip (~> 1.2, >= 1.2.2)
     xpath (3.1.0)
       nokogiri (~> 1.8)
 
